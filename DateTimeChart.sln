@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeChart", "WindowsFormsApp1\DateTimeChart.csproj", "{4770FE2E-D67C-4C6B-910A-81398D9B82AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartData", "ChartData\ChartData.csproj", "{ED5CA876-56D6-42B8-A32D-2259313BC612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBL", "BBL\BBL.csproj", "{E7DCC9A3-552F-4351-9684-D16180CF810C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4770FE2E-D67C-4C6B-910A-81398D9B82AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4770FE2E-D67C-4C6B-910A-81398D9B82AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4770FE2E-D67C-4C6B-910A-81398D9B82AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4770FE2E-D67C-4C6B-910A-81398D9B82AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5CA876-56D6-42B8-A32D-2259313BC612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5CA876-56D6-42B8-A32D-2259313BC612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5CA876-56D6-42B8-A32D-2259313BC612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5CA876-56D6-42B8-A32D-2259313BC612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7DCC9A3-552F-4351-9684-D16180CF810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DCC9A3-552F-4351-9684-D16180CF810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DCC9A3-552F-4351-9684-D16180CF810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DCC9A3-552F-4351-9684-D16180CF810C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4F17E4-FA2D-40B9-87D7-680DD7D15915}
+	EndGlobalSection
+EndGlobal
