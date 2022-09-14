@@ -8,7 +8,6 @@ namespace ChartData.Models
 {
     public class Charts
     {
-        // Создаваемый объект получает в качестве параметров значения для соответствующих осей графика
         public Charts(List<DateTime> dateAxis, List<DateTime> timeAxis)
         {
             TimeAxis = timeAxis;
